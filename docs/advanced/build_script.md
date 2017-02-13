@@ -1,5 +1,5 @@
 # mbed SDK build script environment
-upddate3
+updddate3
 
 It's is using Python 2.7 programming language to drive all tests so make sure Python 2.7 is installed on your system and included in your system PATH. To compile mbed SDK and tests you will need one or more supported compilers installed on your system.
 

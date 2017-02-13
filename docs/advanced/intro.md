@@ -10,7 +10,7 @@
 * [Debug](debugging.md) and [test](testing.md) applications.
 
 
-upddate
+updddate
 
 ## Example applications
 

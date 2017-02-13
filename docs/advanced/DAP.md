@@ -1,6 +1,6 @@
 # CMSIS-DAP and DAPLink
 
-upddate2
+updddate2
 
 ## DAPLink features
 
